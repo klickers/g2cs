@@ -4,4 +4,4 @@ Welcome to the [Guide to College Survival](/)!  This guide is aimed to help stud
 
 
 ### Open Source
-This guide is open source, meaning that anyone on [GitHub](https://github.com) can contribute to the contents of the guide.
+This guide is open source, meaning that anyone on [GitHub](https://github.com) can [contribute to the contents of the guide](https://github.com/klickers/g2cs).
