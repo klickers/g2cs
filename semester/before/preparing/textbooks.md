@@ -1,10 +1,13 @@
 # Textbooks
 
+***
+
+<!-- TODO:  Put something here about the textbook, what role it plays, how to utilize it, etc. -->
+
 ## Before Buying
 
 - **Check with your professor before purchasing textbooks**.  Although the book may be marked as "Required" on the course page, not every professor will actually require you to use it.
 - **Check former students' reviews of your professor on [Rate My Professors](https://ratemyprofessors.com)**.  Some of the students may write that the professor does not require you to use the textbook.  If so, consider saving your money.
-
 
 ## Getting a Copy
 
